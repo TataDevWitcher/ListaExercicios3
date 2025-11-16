@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\X\\Documents\\ProjetosGit\\ListaExercicios3\\ExerciciosBasicos3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0C0E5D-87BB-47BA-B098-541CDDD1B75D}|Exercicio1\\Exercicio1.csproj|c:\\users\\x\\documents\\projetosgit\\listaexercicios3\\exerciciosbasicos3\\exercicio1\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0C0E5D-87BB-47BA-B098-541CDDD1B75D}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "C:\\Users\\X\\Documents\\ProjetosGit\\ListaExercicios3\\ExerciciosBasicos3\\Exercicio1\\Program1.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Program1.cs",
+              "ToolTip": "C:\\Users\\X\\Documents\\ProjetosGit\\ListaExercicios3\\ExerciciosBasicos3\\Exercicio1\\Program1.cs",
+              "RelativeToolTip": "Exercicio1\\Program1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T23:01:25.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
