@@ -37,10 +37,14 @@ namespace Exercicio2
                     Console.WriteLine("Coordenadas estão no 4º quadrante!");
                 }
 
+                Console.WriteLine("");
+                Console.WriteLine("Insira as coordenadas X e Y respectivamente separadas apenas por um espaço.");
                 coordenadas = Console.ReadLine().Split(' ');
                 coordenadax = int.Parse(coordenadas[0]);
                 coordenaday = int.Parse(coordenadas[1]);
             }
+
+            Console.WriteLine("Programa encerrado por inserção de coordenada igual à 0.");
         }
     }
 }
